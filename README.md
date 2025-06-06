@@ -1,4 +1,4 @@
-# Mall Customer Segmentation
+# Mall Customer Segmentation using K-Means Clustering
 
 This project performs customer segmentation using K-Means clustering on the Mall Customers dataset. 
 It uses annual income and spending score to group customers into clusters. The Elbow Method is used
