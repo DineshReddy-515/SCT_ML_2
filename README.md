@@ -8,3 +8,5 @@ Optimal clusters: 5 from Elbow method
 
 Dataset: Mall_Customers.csv from kaggle 
 Use link for dataset download: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+Everything is detaily explained including output in kmean.docx 
